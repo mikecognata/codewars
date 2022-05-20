@@ -1,0 +1,26 @@
+//Original Code
+
+function multiply(a, b){
+    a * b
+}
+
+
+// Description
+// This code does not execute properly. Try to figure out why.
+
+
+//My Solution
+
+function multiply(a, b){
+    return a * b
+}
+
+
+// Other Prime Solutions
+
+// Arrow Function
+
+multiply = (a, b) => a * b;
+
+
+// Neokage
